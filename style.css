@@ -7,6 +7,11 @@
     --font: 'Karla', sans-serif;
     --delay: .3s;
 }
+ a.insta {
+    background: rgb(230 230 230 / 22%);
+    color: WHITE;
+ }
+
 
 body {
     margin: 0;
